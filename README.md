@@ -1,1 +1,1 @@
-
+This hosts file is a manual collection of hosts which I have collected together with my buddies
